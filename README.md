@@ -28,7 +28,6 @@ cupcakeDozCount: Integer)
 
 BakeShop
 
-(you figure out the private data needed)
 +BakeShop()
 +BakeShop(bakerCount : Integer)
 +getPiesOnOrderCount() : Integer
